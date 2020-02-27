@@ -1,3 +1,5 @@
+![Interface](public/sample.png)
+
 # Introduction
 Real GM Fetcher is designed to help individuals query international basketball transactions. Unlike NBA transactions, this information is harder to find and not as readily publicized. Using this tool can provide valuable insights quickly. React, Python and SQL are used in tandem to create a micro full-stack application.
 
@@ -19,4 +21,4 @@ The application is configured to run through a local Flask server. This will pro
 ```python
 python server.py
 ```
-Opening the local server will only return a JSON containing player, team, or transaction information. To interact with the web interface, go to https://p1dsd.csb.app/
+The local host will return a JSON. To interact with the web interface, go to https://p1dsd.csb.app/
