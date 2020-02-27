@@ -1,8 +1,6 @@
 # Introduction
 Real GM Fetcher is designed to help individuals query international basketball transactions. Unlike NBA transactions, this information is harder to find and not as readily publicized. Using this tool can provide valuable insights quickly. The application
 
-![Example use case](public/sample.png)
-
 # Requirements
 Listed in [requirements.txt](requirements.txt).  
 This application uses React.js to render the DOM. Make sure to install React using your JS manager.
