@@ -1,5 +1,5 @@
 # Introduction
-Real GM Fetcher is designed to help individuals query international basketball transactions. Unlike NBA transactions, this information is harder to find and not as readily publicized. Using this tool can provide valuable insights quickly. The application uses React for the frontend, Python Flask for the backend, and SQL as the primary database. 
+Real GM Fetcher is designed to help individuals query international basketball transactions. Unlike NBA transactions, this information is harder to find and not as readily publicized. Using this tool can provide valuable insights quickly. React, Python and SQL are used in tandem to create a micro full-stack application.
 
 # Requirements
 Listed in [requirements.txt](requirements.txt).  
