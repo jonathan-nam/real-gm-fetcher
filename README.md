@@ -13,12 +13,24 @@ This application uses React.js to render the DOM. Make sure to install React usi
 [App.js](src/App.js) calls endpoints and renders the DOM using React components.
 
 # Instructions  
-Fetch data. This will populate an .sqlite file. Navigate to src and run:  
-```python
+#### Fetch data #### 
+This will populate an .sqlite file. Navigate to src and run:  
+```bash
 python realgm.py
 ```
-The application is configured to run through a local Flask server. This will provide access points to the sqlite file. Run: 
-```python
+#### Configure local server ####
+To access the local .sqlite file, I set up a local Flask server. This will provide access points to the sqlite file. Run:   
+```bash
 python server.py
 ```
-The local host will return a JSON. To interact with the web interface, go to https://p1dsd.csb.app/
+#### Run React ####
+Make sure to install Node Package Manager (npm). Node dependencies are purposely excluded from this repository. To install dependencies, Run:  
+```bash
+npm install
+```
+To start the React application, Run:  
+```bash
+npm start
+```
+
+
