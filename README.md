@@ -1,7 +1,7 @@
 ![Interface](public/sample.png)
 
 # Introduction
-Real GM Fetcher is designed to help individuals query international basketball transactions. Unlike NBA transactions, this information is harder to find and not as readily publicized. Using this tool can provide valuable insights quickly. React, Python and SQL are used in tandem to create a micro full-stack application.
+Real GM Fetcher is designed to help individuals find information on basketball transactions outside of the NBA. Unlike NBA contracts, international contract information is harder to find and not as readily publicized. Using this tool can find when players are traded, how frequently teams sign and trade, and provide users with valuable insights quickly. To obtain the data, I use Python's BeautifulSoup to scrape data from Real GM's international transaction database. React, Python, Flask, and SQL are used in tandem to create a micro full-stack application. Feel free to play with the source yourself and send me any questions you have.
 
 # Requirements
 Listed in [requirements.txt](requirements.txt).  
