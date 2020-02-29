@@ -1,3 +1,4 @@
+# BBall Trade Tracker
 ![Interface](public/sample.png)
 
 # Introduction
