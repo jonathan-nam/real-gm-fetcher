@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>RealGM Fetcher</h2>
+      <h2>BBall Trade Tracker</h2>
       <div>
         <button className="fetch" onClick={playerfetch}>
           Player Fetch
