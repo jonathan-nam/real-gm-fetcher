@@ -14,7 +14,7 @@ npm install
 ```
 
 # Files
-[realgm.py](src/realgm.py) is used to populate the SQL database.  
+[realgm.py](src/realgm.py) populates a local SQL database.  
 [server.py](src/server.py) configures a local Flask server.   
 [App.js](src/App.js) renders the DOM using React components.
 
